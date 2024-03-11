@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.h-container{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.f-container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.sfondo-h{
+    background-color: #add8e6;
+    height: 72px;
+    padding-top: 1rem;
+}
+
+.botbar{
+    background-color: #7fffd4;
+    margin-top: 1rem;
+}
+
+.navbar{
+    background-color: #daa520;
+    border: black dashed 2px;
+}
+
+.flex-h{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.nav-row-l{
+    height: 38px;
+    line-height: 35px;
+    margin-left: 6px;
+}
+
+.nav-row-r{
+    height: 38px;
+    line-height: 35px;
+    margin-right: 6px;
+}
+
+.nav-row-c{
+    border-left: 2px dashed;
+    border-right: 2px dashed;
+    height: 38px;
+    width: calc(50% - 2px);
+    text-align: center;
+    line-height: 35px;
+}
+
+.section1{
+    background-color: #00008b;
+}
+
+.flex1{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+}
+
+.item1{
+    width: 50%;
+    background-color: #ee82ee;
+    border: black dashed 2px;
+}
+
+.white{
+    background-color: white;
+}
+
+.grey{
+    background-color: #d3d3d3;
+}
+
+.black{
+    background-color: #222;
+}
+.flex2{
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.flex3{
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    flex-direction: row-reverse;
+}
+
+.flex4{
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.flex5{
+    display: flex
+}
+.item2{
+    background-color: #1e90ff;
+    width: 60%;
+    border: black dashed 2px;
+}
+
+.item3{
+    background-color: #ffc0cb;
+    width: 40%;
+    border: black dashed 2px;
+}
+
+.item4{
+    background-color: #228b22;
+    width: 100%;
+    border: black dashed 2px;
+}
+
+.item5{
+    border: black dashed 2px;
+    width: 30%;
+    background-color: #f08080;
+}
+
+.item6{
+    background-color: #20b2aa;
+    width: 70%;
+    border: black dashed 2px;
+}
+
+.item-figlio{
+    width: calc(100% / 4);
+    border: white dashed 2px;
+}
+.normal-size{
+    height: 430px;
+}
+
+.big-size{
+    height: 860px;
+}
+
+hr{
+    color: #555759;
+}
+
+.bot-row{
+    background-color: #fbafbd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    align-self: center;
+    border: black dashed 2px;
+}
+
+.sfondo-f{
+    background-color: #222;
+}
